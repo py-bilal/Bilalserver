@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "dotgitignore": "^2.1.0"
+  }
+}
